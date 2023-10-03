@@ -1,5 +1,5 @@
-str1 = "I"
-str2 = "have"
-str3 = "a"
-str4 = "cat"
+str1 = "My"
+str2 = "name"
+str3 = "is"
+str4 = "Asmina"
 print (str1 , str2 , str3 , str4 )
